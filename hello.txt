@@ -1,0 +1,5 @@
+hello world;
+hello git;
+hello linux;
+hello hadoop;
+hello everything;
